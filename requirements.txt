@@ -3,6 +3,12 @@ matplotlib
 seaborn
 pandas
 tensorflow
+tensorboardX
+torch
+torchvision
 scikit-learn
 ipykernel
 statsmodels
+ucimlrepo
+repro
+mlxtend

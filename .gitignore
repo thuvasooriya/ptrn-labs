@@ -1,1 +1,8 @@
+**/**.DS_Store
 .venv
+**/data
+**/out
+**/**.pt
+# pixi environments
+.pixi
+*.egg-info
