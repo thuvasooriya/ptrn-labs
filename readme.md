@@ -34,4 +34,5 @@ changes in this repo
 ## acknowledgements
 - [dr. sampath perera](https://ent.uom.lk/team/dr-sampath-perera/) for the original notebooks
 - kajhanan kailainathan
-- [university of moratuwa](https://www.mrt.ac.lk/) for the opportunity to learn pattern recognition
+- andrej karpathy
+- scikit-learn for amazing tutorials
