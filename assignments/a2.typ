@@ -191,7 +191,7 @@ Hence, the estimated probability is 92.4%
 Substituting the suitable values leaves us with
 $0.6 = 1/(1+e^(-(-5.9+0.06 dot x_1+1.5 dot 3.6)))$ and rearranging the equation gives us $e^(-(-5.9+0.06 dot x_1 + 5.4)) = 2/3$ and by simplifying further, $x_1 = (0.5 - ln(2/3))/0.06 approx 15.09$
 
-So the student will need around 15.09 hours of study to have 60% chance of receiving an $A+$, which is insane. 
+So the student will need around 15.09 hours of study to have 60% chance of receiving an $A+$
 
 #pagebreak()
 
